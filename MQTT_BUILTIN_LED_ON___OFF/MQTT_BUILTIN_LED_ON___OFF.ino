@@ -20,15 +20,15 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "Maffy Hotspot"
-#define WLAN_PASS       "googleworld"
+#define WLAN_SSID       "Wifi"
+#define WLAN_PASS       "wifipass"
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "mathesh_suresh"
-#define AIO_KEY         "3a68aad567d1489ea01f20be835184a8"
+#define AIO_USERNAME    "username"
+#define AIO_KEY         "aio key"
 String getvalue;
 
 /************ Global State (you don't need to change this!) ******************/
